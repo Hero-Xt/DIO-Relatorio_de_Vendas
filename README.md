@@ -8,35 +8,35 @@
 
 # Instruções
 
--Download da Sample Financials:
+- Download da Sample Financials:
     Faça o download da amostra de dados financeiros fornecida pela Microsoft. Essa base de dados servirá como a fonte para o seu relatório.
--Power BI Desktop:
+- Power BI Desktop:
     Utilize o Power BI Desktop para importar e transformar os dados da amostra.
     Explore as funcionalidades do Power BI para criar visualizações impactantes.
 
--Design Elegante:
+- Design Elegante:
     Dê atenção especial ao design do seu relatório. Utilize cores atraentes, formatação consistente e layouts intuitivos para proporcionar uma experiência visual agradável.
--Análise Profunda:
+- Análise Profunda:
     Explore os dados de vendas de forma profunda. Identifique tendências, padrões e destaque métricas-chave que forneçam insights valiosos para o negócio.
--Dashboard Interativo:
+- Dashboard Interativo:
     Crie um dashboard interativo que permita aos usuários explorar os dados de vendas de maneira dinâmica. Adicione filtros e elementos interativos para uma experiência personalizada.
 
 # Recursos
 
--Para ajudar na realização deste desafio, você pode contar com os seguintes recursos:
+- Para ajudar na realização deste desafio, você pode contar com os seguintes recursos:
     Sample Financials disponivel no próprio repositorio
     Documentação do Power BI
 
 # Entrega do Projeto
 
--Arquivo do Projeto Power BI (.pbix):
+- Arquivo do Projeto Power BI (.pbix):
 
--Exporte o seu projeto Power BI Desktop em um arquivo .pbix e o submeta como parte da entrega.
+- Exporte o seu projeto Power BI Desktop em um arquivo .pbix e o submeta como parte da entrega.
 Readme do Projeto:
 
 # Visualização do Relatorio
--O repositório contem imagens do relatório
--O relatório possui PDF do relatório
+- O repositório contem imagens do relatório
+- O relatório possui PDF do relatório
 
 # Conclusão
 Este desafio é uma oportunidade excepcional para aprimorar minhas habilidades no Power BI e destacar um talento na criação de relatórios visuais eficazes. 
