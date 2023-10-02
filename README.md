@@ -33,7 +33,7 @@
 
 # Visualização do Relatorio
 - O repositório contem imagens do relatório
-- O relatório possui PDF do relatório
+- O repositório possui PDF do relatório
 
 # Conclusão
 - Este desafio é uma oportunidade excepcional para aprimorar minhas habilidades no Power BI e destacar um talento na criação de relatórios visuais eficazes. 
