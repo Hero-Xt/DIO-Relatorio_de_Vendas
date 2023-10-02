@@ -17,8 +17,6 @@
     Dê atenção especial ao design do seu relatório. Utilize cores atraentes, formatação consistente e layouts intuitivos para proporcionar uma experiência visual agradável.
 - Análise Profunda:
     Explore os dados de vendas de forma profunda. Identifique tendências, padrões e destaque métricas-chave que forneçam insights valiosos para o negócio.
-- Dashboard Interativo:
-    Crie um dashboard interativo que permita aos usuários explorar os dados de vendas de maneira dinâmica. Adicione filtros e elementos interativos para uma experiência personalizada.
 
 # Recursos
 
