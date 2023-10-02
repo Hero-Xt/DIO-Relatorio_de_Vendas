@@ -23,8 +23,8 @@
 # Recursos
 
 - Para ajudar na realização deste desafio, você pode contar com os seguintes recursos:
-    Sample Financials disponivel no próprio repositorio
-    Documentação do Power BI
+    - Sample Financials disponivel no próprio repositorio
+    - Documentação do Power BI
 
 # Publicação no Power BI services
 
