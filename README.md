@@ -1,5 +1,5 @@
 # Desafio de Projeto DIO - Criando um Relatório de Vendas Elegante com Power BI
-
+![Alt text](<Visualização do Relatorio/Página1 - Relatório.JPG>)
 **Introdução**
 - Bem-vindo ao Desafio de Projeto da Digital Innovation One (DIO) - "Criando um Relatório de Vendas Elegante com Power BI". Neste projeto desafiador foi criado um Relatório de Vendas Elegante utilizando uma das ferramentas mais poderosas do mercado: o Power BI.
 
@@ -26,14 +26,17 @@
     Sample Financials disponivel no próprio repositorio
     Documentação do Power BI
 
+# Publicação no Power BI services
+
+![Alt text](<Print da publicação no Power BI services.JPG>)
+
 # Entrega do Projeto
 
 - Arquivo do Projeto Power BI (.pbix):
 - Exporte o seu projeto Power BI Desktop em um arquivo .pbix e o submeta como parte da entrega.
 
 # Visualização do Relatorio
-- O repositório contem imagens do relatório
-- O repositório possui PDF do relatório
+- O repositório possui uma pasta com imagem e PDF do relatório
 
 # Conclusão
 - Este desafio é uma oportunidade excepcional para aprimorar minhas habilidades no Power BI e destacar um talento na criação de relatórios visuais eficazes. 
